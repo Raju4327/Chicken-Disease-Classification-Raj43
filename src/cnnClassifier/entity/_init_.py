@@ -1,0 +1,1 @@
+#entity nothing but return type of function like if you dont have inbuild datatype .. you can create custom datatype by using the entity
