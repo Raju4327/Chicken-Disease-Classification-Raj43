@@ -19,3 +19,9 @@ prepare_callbacks:
   base_model_path:artifacts/prepare_callbacks/tensorboard_log_dir
   upadate_base_model_path:artifacts/prepare_callbacks/checkpoing_dir/model.h5
 
+
+training:
+  root_dir:artifcats/training
+  trained_model_path:artifacts/training/model.h5
+  
+
